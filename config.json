@@ -1,30 +1,28 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "StamnoStomp",
+  "name": "Dunedin",
+  "ascii": "StamnoStomp",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "stamnostomp"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "stamno@pm.me",
+  "ps1_hostname": "stamnostomp.com",
+  "ps1_username": "guest",
+  "repo": "https://github.com/stamnostomp",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
   },
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#282828",
+      "foreground": "#ebdbb2",
+      "yellow": "#fabd2f",
+      "green": "#8ec07c",
+      "gray": "#928374",
+      "blue": "#83a598",
+      "red": "#fb4934"
     },
     "dark": {
       "background": "#2E3440",
